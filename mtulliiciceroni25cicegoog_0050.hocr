@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./mtulliiciceroni25cicegoog_0050.png"; bbox 0 0 2050 3984; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 267 1198 867 1319">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 267 1198 867 1319">
+     <span class='ocr_line' id='line_1_1' title="bbox 267 1198 867 1319; baseline 0 -2"><span class='ocrx_word' id='word_1_1' title='bbox 267 1199 458 1317; x_wconf 60' lang='lat' dir='ltr'><strong>Iosfr</strong></span> <span class='ocrx_word' id='word_1_2' title='bbox 493 1198 867 1319; x_wconf 60' lang='lat' dir='ltr'><strong>R‘E-m&#39;T&#39;UM„</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 270 1486 737 1620">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 270 1486 737 1620">
+     <span class='ocr_line' id='line_1_2' title="bbox 270 1486 737 1620; baseline -0.002 -31"><span class='ocrx_word' id='word_1_3' title='bbox 270 1555 275 1563; x_wconf 96' lang='lat'>-</span> <span class='ocrx_word' id='word_1_4' title='bbox 396 1486 473 1589; x_wconf 48' lang='lat' dir='ltr'><strong>v11³¹·</strong></span> <span class='ocrx_word' id='word_1_5' title='bbox 502 1522 737 1620; x_wconf 57' lang='lat' dir='ltr'><strong>sfflssuz</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 392 1775 740 1833">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 392 1775 740 1833">
+     <span class='ocr_line' id='line_1_3' title="bbox 392 1775 740 1833; baseline 0.003 -3"><span class='ocrx_word' id='word_1_6' title='bbox 392 1775 580 1832; x_wconf 82' lang='lat' dir='ltr'>ORATIO</span> <span class='ocrx_word' id='word_1_7' title='bbox 600 1778 740 1833; x_wconf 89' lang='lat' dir='ltr'><strong>XXVIII.</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 0 0 1030 3984">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 0 0 1030 3984">
+     <span class='ocr_line' id='line_1_4' title="bbox 0 0 1030 3984; baseline 0 0"><span class='ocrx_word' id='word_1_8' title='bbox 0 0 1030 3984; x_wconf 95' lang='lat' dir='ltr'><strong> </strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>

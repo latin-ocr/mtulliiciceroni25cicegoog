@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./mtulliiciceroni25cicegoog_0400.png"; bbox 0 0 2050 3984; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 328 452 898 1658">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 328 452 898 1658">
+     <span class='ocr_line' id='line_1_1' title="bbox 328 452 898 1658; baseline 0 0"><span class='ocrx_word' id='word_1_1' title='bbox 328 452 898 1658; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 1180 456 1658 849">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 1180 456 1658 849">
+     <span class='ocr_line' id='line_1_2' title="bbox 1428 456 1658 485; baseline 0.004 -1"><span class='ocrx_word' id='word_1_2' title='bbox 1428 456 1561 473; x_wconf 71' lang='lat'><strong>·····⁰</strong></span> <span class='ocrx_word' id='word_1_3' title='bbox 1576 456 1658 485; x_wconf 70' lang='lat' dir='ltr'>au!</span> 
+     </span>
+     <span class='ocr_line' id='line_1_3' title="bbox 1214 478 1658 576; baseline 0.011 -43"><span class='ocrx_word' id='word_1_4' title='bbox 1214 478 1461 550; x_wconf 67' lang='lat' dir='ltr'>nenfiurn</span> <span class='ocrx_word' id='word_1_5' title='bbox 1489 501 1658 576; x_wconf 64' lang='lat' dir='ltr'>pluri!</span> 
+     </span>
+     <span class='ocr_line' id='line_1_4' title="bbox 1207 555 1658 680; baseline 0.033 -72"><span class='ocrx_word' id='word_1_6' title='bbox 1207 555 1435 646; x_wconf 60' lang='lat' dir='ltr'>Virtute,</span> <span class='ocrx_word' id='word_1_7' title='bbox 1458 589 1618 654; x_wconf 61' lang='lat' dir='ltr'>rebus</span> <span class='ocrx_word' id='word_1_8' title='bbox 1646 628 1658 680; x_wconf 53' lang='lat' dir='ltr'>l</span> 
+     </span>
+     <span class='ocr_line' id='line_1_5' title="bbox 1192 631 1658 747; baseline 0.015 -27"><span class='ocrx_word' id='word_1_9' title='bbox 1192 631 1616 741; x_wconf 61' lang='lat' dir='ltr'><strong>fmperatoribu,</strong></span> <span class='ocrx_word' id='word_1_10' title='bbox 1638 709 1658 747; x_wconf 64' lang='lat'><em>2</em></span> 
+     </span>
+     <span class='ocr_line' id='line_1_6' title="bbox 1180 716 1658 849; baseline 0.017 -55"><span class='ocrx_word' id='word_1_11' title='bbox 1180 716 1413 807; x_wconf 65' lang='lat' dir='ltr'>imperio</span> <span class='ocrx_word' id='word_1_12' title='bbox 1434 768 1490 812; x_wconf 75' lang='lat' dir='ltr'>et</span> <span class='ocrx_word' id='word_1_13' title='bbox 1506 761 1576 823; x_wconf 76' lang='lat' dir='ltr'>de</span> <span class='ocrx_word' id='word_1_14' title='bbox 1593 775 1658 849; x_wconf 51' lang='lat' dir='ltr'>gl·</span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
